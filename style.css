@@ -49,3 +49,14 @@ h5 {
     font-size: 1.2em;
     line-height: 1em;
 }
+
+
+.nav-bar {
+    background-color: darkblue; 
+}
+
+.nav-bar a {
+    color: white;
+    text-decoration: none;
+    font-size: 2em;
+}
